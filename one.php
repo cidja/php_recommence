@@ -20,3 +20,4 @@ $c = [ 'prenom' => 'jean', 'nom' => 'Marcel', 'profession' => 'charpentier'];
     echo $key+ ' = '+ $value +'<br/>';
 } */
 var_dump($c);
+echo "je fais un test"
